@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.event-container {
+  width: 49%;
+  margin: 10px 0 10px 0;
+  list-style: none;
+}
+
+.event-image {
+  width: 100%;
+}
+
+.event-image-border {
+  width: 100%;
+  border: 1px solid #2dd4bf;
+  border-radius: 12px;
+}
+
+.event-name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin: 8px 0 0 0;
+  font-weight: normal;
+}
+
+.event-place {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin: 8px 0 0 0;
+  font-weight: normal;
+}
+
+.event-button-style {
+  background-color: transparent;
+  border: 0 solid;
+  width: 100%;
+}
